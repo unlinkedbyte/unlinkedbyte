@@ -4,7 +4,7 @@
 
 I have always wanted to understand the why behind everything, and my path in cybersecurity is no exception. 
 
-I started in this field by exploring offensive security, but deploying attacks with tools I didn't fully understand simply didn't fit with me. After taking a break to step back and think about which direction I should choose, I decided to clear out the external noise, stop comparing myself to others, and focus entirely on what I truly enjoy: the low level, Linux internals, C programming, conducting my own research, and understanding how software interacts with hardware. 
+I started in this field by exploring hacking web, but deploying attacks with tools I didn't fully understand simply didn't fit with me. After taking a break to step back and think about which direction I should choose, I decided to clear out the external noise, stop comparing myself to others, and focus entirely on what I truly enjoy: the low level, Linux internals, C programming, conducting my own research, and understanding how software interacts with hardware. 
 
 Currently, I am building utilities to force myself to sharpen my programming skills (C, in this case) and understand how operating systems work under the hood, building the solid foundations that align with my way of thinking.
 
