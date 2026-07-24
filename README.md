@@ -14,7 +14,7 @@ I document my low-level learning journey, system analysis, and lab experiments i
 
 * **[Blog](https://github.com/unlinkedbyte/unlinkedbyte.github.io/tree/main)** 
 
-* **Latest post:** [I tried to leak heap padding. Glibc had other plans](https://github.com/unlinkedbyte/unlinkedbyte.github.io/blob/main/_posts/2026-07-24-I-tried-to-leak-heap-padding-glibc-had-other-plans.md"
+* **Latest post:** [I tried to leak heap padding. Glibc had other plans](https://github.com/unlinkedbyte/unlinkedbyte.github.io/blob/main/_posts/2026-07-24-I-tried-to-leak-heap-padding-glibc-had-other-plans.md)
 
 
 ### First Project
