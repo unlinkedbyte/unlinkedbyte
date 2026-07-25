@@ -80,4 +80,3 @@ I recently researched how Linux blocks work for the flcarve tool, and a few days
 * **j00ru (Mateusz Jurczyk)**
 * **Rana Khalil**
 
-
