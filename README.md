@@ -42,6 +42,7 @@ I recently researched how Linux blocks work for the flcarve tool, and a few days
 </details>
 
 ### Currently Learning
+* [Reverse engineering](https://github.com/unlinkedbyte/Reversing)
 * Linux Internals & Kernel Concepts
 * C Programming
 * Ethical Hacking & Cybersecurity Foundations
