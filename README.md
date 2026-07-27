@@ -20,8 +20,10 @@ I document my low-level learning journey, system analysis, and lab experiments i
 ### First Project
 * **[Fstab Protection Tool](https://github.com/unlinkedbyte/guardian-fstab-project)** - A utility written in C designed to safeguard the `fstab` file configuration against potential system boot failures (caused by human error, unexpected update behaviors...)
 
-### Current Project
+### Current Projects
 * **[flcarve (Forensic Log Recovery)](https://github.com/unlinkedbyte/flcarve_project)** - A low-level DFIR (Digital Forensics and Incident Response) utility designed to recover deleted data during post-exploitation analysis or incident investigations. This tool was conceived to solve a critical real-world scenario: when a genuine attack is mistaken for a false positive, causing automated `logrotate` policies to unlink and discard critical compressed logs (`.gz`). Since standard file system structures lose track of data once unlinked, this utility performs raw file carving directly on a disk image (`dd`), bypassing traditional file system metadata. By scanning raw storage blocks for gzip magic signatures (`0x1F 0x8B`), it reconstructs and extracts deleted evidence, demonstrating how data persists on disk after deletion. *(Planned purely as an educational exercise to guide my low-level learning journey).*
+
+* **[Reversing](https://github.com/unlinkedbyte/Reversing)** - Documenting my reverse engineering learning journey through binary analysis writeups. If you're just starting out, could be a good starting point.
 
 ### Upcoming Projects
 
@@ -42,7 +44,7 @@ I recently researched how Linux blocks work for the flcarve tool, and a few days
 </details>
 
 ### Currently Learning
-* [Reverse engineering](https://github.com/unlinkedbyte/Reversing)
+* Reverse engineering
 * Linux Internals & Kernel Concepts
 * C Programming
 * Ethical Hacking & Cybersecurity Foundations
