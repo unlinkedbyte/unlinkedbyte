@@ -45,6 +45,7 @@ I recently researched how Linux blocks work for the flcarve tool, and a few days
 * Linux Internals & Kernel Concepts
 * C Programming
 * Ethical Hacking & Cybersecurity Foundations
+* Reverse engineering
 
 ### Programming Languages & Scripting
 * **C** (Core language)
