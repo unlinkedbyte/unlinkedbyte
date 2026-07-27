@@ -17,9 +17,9 @@ I document my low-level learning journey, system analysis, and lab experiments i
 
 * **First post:** [The Old Risk Of Residual Data In Physical RAM Cells](https://github.com/unlinkedbyte/unlinkedbyte.github.io/blob/main/_posts/2026-07-13-the-old-risk-of-residual-data-in-physical-ram-cells.md)
 
-* **Second post:**[I Tried to Leak Heap Padding. glibc Had Other Plans](https://github.com/unlinkedbyte/unlinkedbyte.github.io/blob/main/_posts/2026-07-24-I-tried-to-leak-heap-padding-glibc-had-other-plans.md)
+* **Second post:** [I Tried to Leak Heap Padding. glibc Had Other Plans](https://github.com/unlinkedbyte/unlinkedbyte.github.io/blob/main/_posts/2026-07-24-I-tried-to-leak-heap-padding-glibc-had-other-plans.md)
 
-* **Third post:**[Git credential-cache and suspend: an unexpected timeout behavior](https://github.com/unlinkedbyte/unlinkedbyte.github.io/blob/main/_posts/2026-07-25-Git-credential-cache-and-suspend-an-unexpected-timeout-behaviour.md)
+* **Third post:** [Git credential-cache and suspend: an unexpected timeout behavior](https://github.com/unlinkedbyte/unlinkedbyte.github.io/blob/main/_posts/2026-07-25-Git-credential-cache-and-suspend-an-unexpected-timeout-behaviour.md)
 
 ### First Project
 * **[Fstab Protection Tool](https://github.com/unlinkedbyte/guardian-fstab-project)** - A utility written in C designed to safeguard the `fstab` file configuration against potential system boot failures (caused by human error, unexpected update behaviors...)
