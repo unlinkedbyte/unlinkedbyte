@@ -4,10 +4,11 @@
 
 I have always wanted to understand the why behind everything, and my path in cybersecurity is no exception. 
 
-I started in this field by exploring hacking web, but deploying attacks with tools I didn't fully understand simply didn't fit with me. After taking a break to step back and think about which direction I should choose, I decided to clear out the external noise, stop comparing myself to others, and focus entirely on what I truly enjoy: the low level, Linux internals, C programming, conducting my own research, and understanding how software interacts with hardware. 
+I started out in web security, but deploying attacks with tools I didn't fully understand didn't fit the way I think. I stepped back and refocused on what I actually enjoy: the low level, Linux internals, C, and understanding how software behaves underneath the abstractions.
 
-Currently, I am building utilities to force myself to sharpen my programming skills (C, in this case) and understand how operating systems work under the hood, building the solid foundations that align with my way of thinking.
+I'm still building those foundations. Most of my time so far has gone into writing small utilities in C and working through K&R, learning by doing rather than by tutorial. More recently I started reverse engineering in parallel: binary analysis, crackmes, and a first look at real router firmware, partly because reading disassembly next to C accelerates both, and partly because it's what pulls me.
 
+I document the process as I go, including the parts I get wrong. Those stay up, corrected in later writeups.
 
 ### 🔬 Research Blog & Labs
 I document my low-level learning journey, system analysis, and lab experiments in a dedicated repository.
