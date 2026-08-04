@@ -52,13 +52,12 @@ I recently researched how Linux blocks work for the flcarve tool, and a few days
 * Reverse engineering
 * Linux Internals & Kernel Concepts
 * C Programming
-* Ethical Hacking & Cybersecurity Foundations
 
-### Programming Languages & Scripting
+### Tools & Languages
 * **C** (Core language)
-* **Bash** (Basic scripting for automation)
-* **HTML & Javascript** (Read-only proficiency focused on code auditing and web vulnerability analysis (e.g., client-side logic, XSS)).
-* **SQL** (Fundamental understanding for database structure and injection vector analysis)
+* **Assembly** - x86 (learning)
+* **Debugger** - GDB
+* **Disassembler** - Ghidra
 
 ### Reading List 
 
