@@ -55,7 +55,7 @@ I recently researched how Linux blocks work for the flcarve tool, and a few days
 
 ### Tools & Languages
 * **C** (Core language)
-* **Assembly** - x86 (learning)
+* **Assembly** - x86, x86-64
 * **Debugger** - GDB
 * **Disassembler** - Ghidra
 
