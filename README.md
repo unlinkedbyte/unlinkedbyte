@@ -67,23 +67,20 @@ I recently researched how Linux blocks work for the flcarve tool, and a few days
 
 #### Currently Reading
 * 📖 *[The C Programming Language](https://github.com/unlinkedbyte/the-c-programming-language-solutions)* — Brian W. Kernighan & Dennis M. Ritchie
-* 📖 *How Linux Works* — Brian Ward
-* 📖 *Hacking: The Art Of Exploitation* - Jon Erickson
-* 📖 Practical Binary Analysis — Dennis Andriesse (referencia / en curso)
-
-*I also like to read Kris Kaspersky's books on my free time (code optimization, hacker disassembly) to absorb historical context and study how a brilliant researcher thought*
+* 📖 *Computer Systems: A Programmer's Perspective* (CS:APP)* — Randal E. Bryant & David R. O'Hallaron
+* 📖 *Practical Binary Analysis* — Dennis Andriesse (referencia / en curso)
 
 #### Essential Backlog
 * 🎯 *Computer Systems: A Programmer's Perspective* (CS:APP) — Randal E. Bryant & David R. O'Hallaron
 * 🎯 *The Linux Programming Interface* — Michael Kerrisk
 * 🎯 *TCP/IP Illustrated, Volume 1: The Protocols* — Kevin R. Fall & W. Richard Stevens
 
+
 ### Pioneers & Researchers I Like
 * **Kris Kaspersky** - *special mention*. A true legend of reverse engineering and the low level scene
 * **Dennis Ritchie, Brian Kernighan & Ken Thompson**
 * **Richard Stallman & Linus Torvalds**
 * **PortSwigger Security Research Team**
-* **Jon Erickson**
 * **Jann Horn**
 * **Gynvael Coldwind**
 * **0vercl0k (Axel Souchet)**
