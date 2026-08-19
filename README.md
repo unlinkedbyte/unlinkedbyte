@@ -60,9 +60,10 @@ I recently researched how Linux blocks work for the flcarve tool, and a few days
 * Reverse engineering
 * Linux Internals & Kernel Concepts
 * C Programming
+* Binary format - ELF
 
 ### Tools & Languages
-* **C** (Core language)
+* **C** - Core language
 * **Assembly** - x86, x86-64
 * **Debugger** - GDB
 * **Disassembler** - Ghidra
@@ -70,13 +71,13 @@ I recently researched how Linux blocks work for the flcarve tool, and a few days
 ### Reading List 
 
 #### Currently Reading
-* 📖 *[The C Programming Language](https://github.com/unlinkedbyte/the-c-programming-language-solutions)* — Brian W. Kernighan & Dennis M. Ritchie
-* 📖 *Computer Systems: A Programmer's Perspective (CS:APP)* — Randal E. Bryant & David R. O'Hallaron
-* 📖 *Practical Binary Analysis* — Dennis Andriesse
+* 📖 *[The C Programming Language](https://github.com/unlinkedbyte/the-c-programming-language-solutions)* - Brian W. Kernighan & Dennis M. Ritchie
+* 📖 *Computer Systems: A Programmer's Perspective (CS:APP)* - Randal E. Bryant & David R. O'Hallaron
+* 📖 *Practical Binary Analysis* - Dennis Andriesse
 
 #### Essential Backlog
-* 🎯 *The Linux Programming Interface* — Michael Kerrisk
-* 🎯 *TCP/IP Illustrated, Volume 1: The Protocols* — Kevin R. Fall & W. Richard Stevens
+* 🎯 *The Linux Programming Interface* - Michael Kerrisk
+* 🎯 *TCP/IP Illustrated, Volume 1: The Protocols* - Kevin R. Fall & W. Richard Stevens
 
 
 ### Pioneers & Researchers I Like
