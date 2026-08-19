@@ -13,14 +13,14 @@ I document the process as I go, including the parts I get wrong. Those stay up, 
 ### 🔬 Research Blog & Labs
 I document my low-level learning journey, system analysis, and lab experiments in a dedicated repository.
 
-* **[Blog](https://github.com/unlinkedbyte/unlinkedbyte.github.io/tree/main)** 
+* **[Blog](https://unlinkedbyte.github.io/)** 
 
 
-* **First post:** [The Old Risk Of Residual Data In Physical RAM Cells](https://github.com/unlinkedbyte/unlinkedbyte.github.io/blob/main/_posts/2026-07-13-the-old-risk-of-residual-data-in-physical-ram-cells.md)
+* **First post:** [The Old Risk Of Residual Data In Physical RAM Cells](https://unlinkedbyte.github.io/posts/the-old-risk-of-residual-data-in-physical-ram-cells/)
 
-* **Second post:** [I Tried to Leak Heap Padding. glibc Had Other Plans](https://github.com/unlinkedbyte/unlinkedbyte.github.io/blob/main/_posts/2026-07-24-I-tried-to-leak-heap-padding-glibc-had-other-plans.md)
+* **Second post:** [I Tried to Leak Heap Padding. glibc Had Other Plans](https://unlinkedbyte.github.io/posts/I-tried-to-leak-heap-padding-glibc-had-other-plans/)
 
-* **Third post:** [Git credential-cache and suspend: an unexpected timeout behavior](https://github.com/unlinkedbyte/unlinkedbyte.github.io/blob/main/_posts/2026-07-25-Git-credential-cache-and-suspend-an-unexpected-timeout-behaviour.md)
+* **Third post:** [Git credential-cache and suspend: an unexpected timeout behavior](https://unlinkedbyte.github.io/posts/Git-credential-cache-and-suspend-an-unexpected-timeout-behaviour/)
 
 ### First Project
 * **[Fstab Protection Tool](https://github.com/unlinkedbyte/guardian-fstab-project)** - A utility written in C designed to safeguard the `fstab` file configuration against potential system boot failures (caused by human error, unexpected update behaviors...)
