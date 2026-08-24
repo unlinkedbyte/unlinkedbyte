@@ -74,6 +74,7 @@ I recently researched how Linux blocks work for the flcarve tool, and a few days
 * 📖 *[The C Programming Language](https://github.com/unlinkedbyte/the-c-programming-language-solutions)* - Brian W. Kernighan & Dennis M. Ritchie
 * 📖 *Computer Systems: A Programmer's Perspective (CS:APP)* - Randal E. Bryant & David R. O'Hallaron
 * 📖 *Practical Binary Analysis* - Dennis Andriesse
+* 📖 *Getting Started in Electronics + The hardware Hacking Handbook* (Weekends, alongside the hardware lab)
 
 #### Essential Backlog
 * 🎯 *The Linux Programming Interface* - Michael Kerrisk
