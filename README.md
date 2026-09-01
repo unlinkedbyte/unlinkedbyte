@@ -34,10 +34,6 @@ I document my low-level learning journey, system analysis, and lab experiments i
 
 ### Upcoming Projects
 
-* **Hardware hacking lab**
-
-Building a home lab for hardware hacking: soldering, UART/JTAG interfacing and embedded target work. Weekend project alongside weekday study. Repo coming once there's something worth showing.
-
 * **Slack space scanner**
 
 Conceptualized to scan the slack space of the last allocated block with sliding entropy, looking for fragmented malware.
