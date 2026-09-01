@@ -30,6 +30,8 @@ I document my low-level learning journey, system analysis, and lab experiments i
 
 * **[Reversing](https://github.com/unlinkedbyte/Reversing)** - Documenting my reverse engineering learning journey: binary analysis, firmware analysis and crackmes writeups. If you're just starting out, could be a good starting point.
 
+* **[Hardware-hacking-learning-journey](https://github.com/unlinkedbyte/Hardware-hacking-learning-journey/tree/main)** - Documenting my learning journey in hardware hacking inside my home lab. This repository captures my practical analysis of embedded systems, firmware extraction and serial interfacing.
+
 ### Upcoming Projects
 
 * **Hardware hacking lab**
