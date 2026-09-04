@@ -6,7 +6,7 @@ I have always wanted to understand the why behind everything, and my path in cyb
 
 I started out in web security, but deploying attacks with tools I didn't fully understand didn't fit the way I think. I stepped back and refocused on what I actually enjoy: the low level, Linux internals, C, and understanding how software behaves underneath the abstractions.
 
-I'm still building those foundations. Most of my time so far has gone into writing small utilities in C and working through K&R, learning by doing rather than by tutorial. More recently I started reverse engineering in parallel: binary analysis, crackmes, and a first look at real router firmware, partly because reading disassembly next to C accelerates both, and partly because it's what pulls me.
+I'm still building those foundations. Most of my time so far has gone into writing small utilities in C and working through K&R, learning by doing. More recently I started reverse engineering in parallel: binary analysis, crackmes, and a first look at real router firmware, partly because reading disassembly next to C accelerates both.
 
 I document the process as I go, including the parts I get wrong. Those stay up, corrected in later writeups.
 
