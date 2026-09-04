@@ -22,8 +22,11 @@ I document my low-level learning journey, system analysis, and lab experiments i
 
 * **Third post:** [Git credential-cache and suspend: an unexpected timeout behavior](https://unlinkedbyte.github.io/posts/Git-credential-cache-and-suspend-an-unexpected-timeout-behaviour/)
 
-### First Project
-* **[Fstab Protection Tool](https://github.com/unlinkedbyte/guardian-fstab-project)** - A utility written in C designed to safeguard the `fstab` file configuration against potential system boot failures (caused by human error, unexpected update behaviors...)
+### Completed Projects
+
+* **[Fstab Protection Tool](https://github.com/unlinkedbyte/guardian-fstab-project)** - My first project, written during my first weeks learning C. A utility designed to safeguard the `fstab` file configuration against potential system boot failures (caused by human errors). 
+
+* **[stackstr](https://github.com/unlinkedbyte/stackstr)** - A modest tool that reads `movabs` immediates from an objdump disassembly and prints them as ASCII, to tell at a glance whether they hold a stack string. Came out of decoding those by hand one too many times while working through crackmes or analysing binaries for my own practice.
 
 ### Current Projects
 * **[flcarve (Forensic Log Recovery)](https://github.com/unlinkedbyte/flcarve_project)** - A low-level DFIR (Digital Forensics and Incident Response) utility designed to recover deleted data during post-exploitation analysis or incident investigations. This tool was conceived to solve a critical real-world scenario: when a genuine attack is mistaken for a false positive, causing automated `logrotate` policies to unlink and discard critical compressed logs (`.gz`). Since standard file system structures lose track of data once unlinked, this utility performs raw file carving directly on a disk image (`dd`), bypassing traditional file system metadata. By scanning raw storage blocks for gzip magic signatures (`0x1F 0x8B`), it reconstructs and extracts deleted evidence, demonstrating how data persists on disk after deletion. *(Planned purely as an educational exercise to guide my low-level learning journey).*
